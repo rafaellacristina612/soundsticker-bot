@@ -1,0 +1,13 @@
+{
+  "name": "soundsticker-bot",
+  "version": "1.0.0",
+  "description": "Bot de figurinhas sonoras para WhatsApp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "fluent-ffmpeg": "^2.1.3"
+  }
+}
